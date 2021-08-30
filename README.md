@@ -1,2 +1,2 @@
 # Property-Analysis_SSRS
-SSRS reporting 
+custom reports from  SQL databases (Software used :SSRS)
